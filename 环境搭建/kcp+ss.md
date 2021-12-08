@@ -4,7 +4,7 @@ Kcptun 是一个非常简单和快速的，基于 KCP 协议的 UDP 隧道，它
 ## ss
 Shadowsocks 常用的上网工具(不稳)
 ## kcp +ss =以10%-20%带宽浪费的代价换取了比 TCP快30%-40%的传输速度 + 稳
-
+![kcp加速图](https://github.com/person-hack/penetration-testing/blob/main/imags/kcptun.png)
 ## server:
 ### 搭建ss:
 yum install -y python-setuptools
